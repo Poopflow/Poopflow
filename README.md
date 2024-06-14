@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucid</h1>
 <h3 align="center">luciddevs.com</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poopflow" alt="poopflow" /></a> </p>
-
 - 🔭 I’m currently working on [FiveM Network](https://discord.gg/4NBgTXff)
 
 - 🌱 I’m currently learning **Next.JS**
